@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "492643200157",
+    "project_id": "desa-karangtalun-lor",
+    "storage_bucket": "desa-karangtalun-lor.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492643200157:android:20ebea2de0d7131d61f874",
+        "android_client_info": {
+          "package_name": "com.mansursultoni.desakarangtalunlor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492643200157-riabp6rvuqj8rkg77rb92qe1lch6ddbo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANlQSdU1LWTxOxmfiup3VBQio_Qgpg4w8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492643200157-riabp6rvuqj8rkg77rb92qe1lch6ddbo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
